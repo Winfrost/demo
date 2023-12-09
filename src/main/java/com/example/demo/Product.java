@@ -12,6 +12,7 @@ public class Product {
     private String description;
     private String image;
     private Double price;
+    int test;
 
 //    Inizio Metodo 1 senza entità associativa
 
